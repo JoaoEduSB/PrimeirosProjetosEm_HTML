@@ -1,0 +1,68 @@
+VISUAL STUDIO CODE
+
+Atalhos:
+
+CTRL + ESPAÇO = CHAMAR IMAGEM
+ALT + Z = QUEBRA DE LINHA
+
+Tags:
+
+<!DOCtype html> Versão do Html
+<html lang="pt-br"> Tipo do documento 
+
+
+<b> Texto em negrito
+<strong> Texto importante (apesar de trazer o estilo bold para o texto)
+<i> Traz a formatação itálico para o texto
+<em> Apresenta ênfase ao texto (apesar de trazer o estilo itálico para o texto)
+<mark> Traz o estilo de caneta marca texto
+<small> Texto ligeiramente pequeno
+<del> Texto riscado
+<Ins>Texto sublinhado
+<sub> abaixa o texto
+<sup> eleva o texto
+<hr> cria uma linha embaixo do texto
+<a href="saopaulo.html> - Para chamar a referência do link basta digitar a:link
+
+<!-- Comentários -->
+                                 META DADOS
+
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	
+	ou
+	
+	<meta charset="UTF-8">
+
+	Padrão
+
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="author" content="João Eduardo Souza Barbosa">
+        <meta name="description" content="Página sobre comentários em html">
+        <meta name="keywords" content="Comentário, Html, Programação">
+        <meta http-equiv="refresh" content="5">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Compatibilidade com navegadores
+        <meta http-equiv="X-UA-Compatible" content="IE=7">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+favicon.cio / icons8
+link:favicon - *****Adição do ícone na aba do site*****
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+Subtitulo
+
+essa imagem vai ser o link que nós vamos criar para outra página
+
+Crie 3 parágrafos sobre informações gerais dessa cidade
+
+
+<a href="index03.html">  direcionamento para a primeira página </a>
+
+<a href="index03.html" content="">  direcionamento para a primeira página </a>
+
+ALINHAMENTO
+<div style="text-align:center">
+<div align="center">
+

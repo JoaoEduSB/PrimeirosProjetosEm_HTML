@@ -1,0 +1,51 @@
+          /* ESTILIZAÇÃO DA PÁGINA*/
+body {
+    background-color: rgb(207, 207, 209);
+    font-size:25px;
+}
+h1{
+font-family: 'Courier New', Courier, monospace;
+font-size:50px;
+color: brown;
+text-align: center;
+background-color: grey;
+}
+h2{
+text-align: center;
+color:brown;
+}
+p{
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color:rgba(29, 29, 29, 0.658);
+}
+    a{
+color:black
+    }
+                         /* CLASSES E ID'S*/
+#imagensc{
+    display: flex;
+    justify-content: center;
+}
+#h2style{
+    text-align: center;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.button{
+    background-color: #96a0aa;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center
+}
+.button:hover {
+    background-color: #52595f;
+}

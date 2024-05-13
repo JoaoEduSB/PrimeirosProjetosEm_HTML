@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+  }
+
+h1{
+font-family: 'Courier New', Courier, monospace;
+font-size:50px;
+color:white;
+text-align: center;
+background:linear-gradient(to bottom left, rgb(186, 228, 2), violet) 
+
+}
+h2{
+text-align: center;
+color:brown;
+font-size:30px;
+}
+p{
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color:rgba(29, 29, 29, 0.658)
+}
+
+.button{
+        background-color: #8f9eaf;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-align: center
+    }
+    .button:hover {
+        background-color: #0056b3;
+    }
+#imagenswh{
+    display: flex;
+justify-content: center;
+}
+
